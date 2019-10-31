@@ -1,0 +1,110 @@
+,pays,admin2Name,Concentrat,Patu_dispo,Eau_dispo,Eau_type,Embon_GR,Malad_ON,Mort_ON,Mort_cau,Incend_ON
+0,Burkina,Tapoa,low,very insufficient,insufficient,well,poor,no,no,sickness,no
+1,Burkina,Tapoa,low,very insufficient,insufficient,well,poor,no,no,sickness,no
+2,Burkina,Tapoa,low,very insufficient,insufficient,drilling,Critical,no,no,sickness,no
+3,Burkina,Tapoa,low,very insufficient,insufficient,well,passable,no,no,sickness,no
+4,Burkina,Tapoa,low,very insufficient,insufficient,well,passable,no,no,sickness,no
+5,Burkina,Tapoa,low,insufficient,insufficient,drilling,passable,no,no,sickness,no
+6,Burkina,Tapoa,low,insufficient,insufficient,drilling,passable,no,no,sickness,no
+7,Burkina,Tapoa,low,very insufficient,average,drilling,poor,no,no,sickness,no
+8,Burkina,Tapoa,average,insufficient,average,drilling,passable,no,no,sickness,no
+9,Burkina,Tapoa,low,very insufficient,insufficient,drilling,poor,no,no,sickness,no
+10,Burkina,Tapoa,low,insufficient,insufficient,well,passable,no,no,sickness,no
+11,Burkina,Tapoa,average,insufficient,insufficient,well,passable,no,no,sickness,no
+12,Burkina,Tapoa,low,very insufficient,insufficient,well,passable,no,no,sickness,no
+13,Burkina,Tapoa,low,very insufficient,very insufficient,well,poor,no,no,sickness,no
+14,Burkina,Tapoa,average,average,average,well,passable,no,no,sickness,no
+15,Burkina,Tapoa,low,insufficient,insufficient,well,passable,no,no,sickness,no
+16,Burkina,Tapoa,very strong,very insufficient,insufficient,well,poor,no,no,sickness,no
+17,Burkina,Tapoa,average,average,average,drilling,passable,no,no,sickness,no
+18,Burkina,Gnagna,average,average,average,drilling,passable,no,no,sickness,no
+19,Burkina,Gnagna,average,average,average,drilling,passable,no,no,sickness,no
+20,Burkina,Gnagna,average,average,average,drilling,passable,no,no,sickness,no
+21,Burkina,Gnagna,average,average,average,drilling,passable,no,no,sickness,no
+22,Burkina,Gnagna,average,average,average,drilling,passable,no,no,sickness,no
+23,Burkina,Gnagna,average,insufficient,insufficient,well,poor,no,no,sickness,no
+24,Burkina,Gnagna,average,insufficient,insufficient,well,poor,no,no,sickness,no
+25,Burkina,Gnagna,average,insufficient,insufficient,well,poor,no,no,sickness,no
+26,Burkina,Gnagna,average,insufficient,insufficient,well,poor,no,no,sickness,no
+27,Burkina,Gnagna,average,very insufficient,insufficient,well,poor,no,no,sickness,no
+28,Burkina,Gnagna,average,very insufficient,insufficient,well,poor,no,no,sickness,no
+29,Burkina,Gnagna,average,very insufficient,insufficient,well,poor,no,no,sickness,no
+30,Burkina,Gnagna,strong,average,Suffisante,drilling,passable,no,no,sickness,no
+31,Burkina,Gnagna,strong,average,Suffisante,drilling,passable,no,no,sickness,no
+32,Senegal,Tambacounda,strong,average,Suffisante,drilling,passable,no,no,sickness,no
+33,Senegal,Tambacounda,low,average,Suffisante,ponds,passable,no,no,sickness,no
+34,Senegal,Koumpentoum,very strong,insufficient,Suffisante,ponds,good,yes,no,sickness,yes
+35,Senegal,Koumpentoum,average,average,average,drilling,passable,no,no,sickness,yes
+36,Senegal,Koungheul,strong,average,average,drilling,passable,no,no,sickness,no
+37,Senegal,Goudiry,average,insufficient,very insufficient,drilling,passable,no,no,sickness,yes
+38,Senegal,Goudiry,average,average,average,ponds,passable,no,no,sickness,yes
+39,Senegal,Bakel,strong,very insufficient,very insufficient,ponds,passable,no,no,sickness,no
+40,Senegal,Bakel,average,insufficient,insufficient,rivers/lakes,passable,yes,yes,sickness,no
+41,Senegal,Kanel,low,insufficient,insufficient,ponds,passable,no,no,sickness,no
+42,Senegal,Kebemer,low,insufficient,Suffisante,drilling,poor,no,no,sickness,no
+43,Senegal,Ranerou,low,very insufficient,average,drilling,poor,no,no,sickness,no
+44,Senegal,Ranerou,low,very insufficient,Suffisante,drilling,passable,yes,yes,sickness,no
+45,Senegal,Ranerou,low,Suffisante,Suffisante,drilling,poor,no,no,sickness,no
+46,Senegal,Linguere,low,Suffisante,Suffisante,drilling,poor,no,no,sickness,no
+47,Senegal,Linguere,average,insufficient,very insufficient,drilling,passable,no,no,sickness,no
+48,Senegal,Linguere,very weak/absence,very insufficient,average,drilling,Critical,no,no,sickness,no
+49,Senegal,Linguere,strong,very insufficient,average,drilling,passable,yes,no,sickness,no
+50,Senegal,Linguere,low,very insufficient,very insufficient,drilling,poor,no,no,sickness,no
+51,Senegal,Linguere,strong,Suffisante,Suffisante,drilling,passable,yes,no,sickness,yes
+52,Senegal,Matam,low,insufficient,Suffisante,rivers/lakes,passable,no,no,sickness,no
+53,Senegal,Louga,low,very insufficient,Suffisante,drilling,poor,no,no,sickness,no
+54,Senegal,Louga,average,average,Suffisante,rivers/lakes,passable,yes,no,sickness,no
+55,Senegal,Dagana,average,average,Suffisante,rivers/lakes,passable,yes,no,sickness,no
+56,Senegal,Dagana,very weak/absence,very insufficient,Suffisante,rivers/lakes,Critical,yes,yes,sickness,no
+57,Senegal,Dagana,average,insufficient,Suffisante,drilling,passable,no,no,other,no
+58,Senegal,Podor,average,very insufficient,Suffisante,drilling,passable,no,no,other,no
+59,Senegal,Podor,very weak/absence,Suffisante,insufficient,drilling,passable,yes,no,other,no
+60,Senegal,Podor,low,insufficient,insufficient,drilling,poor,yes,no,other,no
+61,Senegal,Podor,low,insufficient,insufficient,ponds,poor,yes,yes,other,no
+62,Mali,Ansongo,average,average,average,rivers/lakes,passable,no,no,other,no
+63,Mali,Ansongo,strong,insufficient,average,rivers/lakes,poor,no,no,other,no
+64,Mali,Ansongo,average,average,average,rivers/lakes,passable,no,no,other,no
+65,Mali,Ansongo,average,insufficient,average,rivers/lakes,poor,no,no,other,no
+66,Mali,Ansongo,strong,average,average,ponds,passable,no,no,other,no
+67,Mali,Ansongo,strong,average,average,ponds,passable,no,no,other,no
+68,Mali,Ansongo,strong,average,average,ponds,passable,no,no,other,no
+69,Mali,Ansongo,strong,average,average,well,passable,no,no,other,no
+70,Mali,Gao,strong,insufficient,insufficient,ponds,poor,no,no,other,no
+71,Mali,Gao,strong,insufficient,insufficient,ponds,poor,no,no,other,no
+72,Mali,Gao,average,average,average,ponds,passable,no,no,other,no
+73,Mali,Gao,average,average,average,ponds,passable,no,no,other,no
+74,Mali,Gao,average,average,average,rivers/lakes,passable,no,no,other,no
+75,Mali,Gao,average,average,average,rivers/lakes,passable,no,no,other,no
+76,Mali,Gao,average,average,average,rivers/lakes,passable,no,no,other,no
+77,Mali,Gao,average,insufficient,average,rivers/lakes,poor,no,no,other,no
+78,Mali,Gao,average,average,average,rivers/lakes,passable,no,no,other,no
+79,Mali,Gao,strong,average,insufficient,ponds,passable,no,no,other,no
+80,Mali,Gao,strong,very insufficient,insufficient,well,poor,no,no,other,no
+81,Mali,Gao,strong,insufficient,insufficient,well,poor,no,no,other,no
+82,Mali,Bourem,average,average,average,rivers/lakes,passable,no,no,other,no
+83,Mali,Bourem,strong,insufficient,average,ponds,poor,no,no,other,no
+84,Mali,Bourem,strong,insufficient,average,ponds,poor,no,no,other,no
+85,Mali,Bourem,average,insufficient,average,rivers/lakes,poor,no,no,other,no
+86,Mali,Bourem,average,insufficient,average,rivers/lakes,poor,no,no,other,no
+87,Mali,Bourem,average,average,average,ponds,passable,no,no,other,no
+88,Mali,Bourem,average,insufficient,average,rivers/lakes,poor,no,no,other,no
+89,Mali,Bourem,strong,insufficient,average,rivers/lakes,poor,no,no,other,no
+90,Mali,Bourem,strong,insufficient,average,rivers/lakes,poor,no,no,other,no
+91,Niger,Abala,average,insufficient,insufficient,well,poor,no,no,other,no
+92,Niger,Abalak,strong,Suffisante,Suffisante,ponds,passable,no,yes,other,no
+93,Niger,Bouza,low,Suffisante,Suffisante,ponds,passable,no,no,sickness,no
+94,Niger,Diffa,average,insufficient,Suffisante,ponds,passable,no,no,sickness,no
+95,Niger,Diffa,average,average,Suffisante,ponds,passable,yes,yes,sickness,no
+96,Niger,Gouré,strong,average,insufficient,well,passable,yes,no,sickness,no
+97,Niger,Guidan Roumdji,low,insufficient,Suffisante,ponds,passable,no,no,sickness,no
+98,Niger,Ingall,average,average,average,well,passable,yes,no,sickness,no
+99,Niger,Keita,average,average,Suffisante,well,passable,yes,no,sickness,no
+100,Niger,Maïné Soroa,strong,insufficient,average,well,poor,yes,yes,sickness,yes
+101,Niger,Malbaza,average,average,average,ponds,passable,yes,no,Inondation,no
+102,Niger,Mayahi,very weak/absence,average,insufficient,ponds,passable,no,no,Inondation,no
+103,Niger,N'Guigmi,very strong,insufficient,average,well,passable,yes,no,Inondation,no
+104,Niger,Ouallam,low,insufficient,average,ponds,poor,no,yes,Inondation,no
+105,Niger,Tanout,average,average,Suffisante,well,good,yes,no,sickness,no
+106,Niger,Tchintabaraden,average,average,Suffisante,ponds,passable,yes,no,sickness,no
+107,Niger,Tillabéri,low,average,Suffisante,rivers/lakes,passable,yes,yes,sickness,no
+108,Niger,Ville de Tahoua,low,insufficient,average,well,passable,yes,yes,sickness,no
